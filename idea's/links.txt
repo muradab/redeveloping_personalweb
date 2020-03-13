@@ -4,5 +4,7 @@ my gallery
 
 activities
 
+hire 
 
+about me 
 
